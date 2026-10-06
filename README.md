@@ -1,5 +1,5 @@
 # 💫 About Me:
-😊Hi, I’m @TyrantRaj aka Yuvaraj<br>👀 I’m interested in Game Development<br>🌱 I’m currently learning Unity 3D<br>🔭 I'm currently working on Developing a secret game<br>🎮 Programmer/ProGamer<br>📫 How to reach me tyrantraj@gmail.com
+😊Hi, I’m @TyrantRaj aka Yuvaraj<br>👀 I’m interested in Game Development<br>🌱 I’m currently learning Unity 3D<br>🔭 I'm currently working on Developing a secret game<br>🎮 Programmer/ProGamer<br>📫 How to reach me yuvarajdev04@gmail.com
 
 
 ## 🌐 Socials:
